@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861037769892",
+    "project_id": "onlineradioapps-93b71",
+    "storage_bucket": "onlineradioapps-93b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861037769892:android:33af8aa0924a4a35e06231",
+        "android_client_info": {
+          "package_name": "com.mycompany.onlineradioapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxu7TEq1vJh7XaDqCAFVv9bo7awdSwvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
